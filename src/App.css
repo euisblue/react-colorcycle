@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  width: 40em;
+  margin: 0 auto;
+  text-align: center;
+}
+
+div.palette {
+  margin: 0 auto;
+  border: 1px solid blue;
+  width: 30em;
+  height: 30em;
+}
