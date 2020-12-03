@@ -2,6 +2,10 @@
 
 Day 5: Color Cycle
 
+![demo](./colorcycle.gif);
+
+> Not finished .. :(
+
 ## Description
 Cycle a color value through incremental changes.
 

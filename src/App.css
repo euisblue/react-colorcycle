@@ -6,9 +6,9 @@
   text-align: center;
 }
 
-div.palette {
+div#palette {
   margin: 0 auto;
-  border: 1px solid blue;
   width: 30em;
   height: 30em;
+  transition: all 0.25s;
 }
