@@ -2,7 +2,8 @@
 
 Day 5: Color Cycle
 
-![demo](./color.gif)
+<img src="./color.gif" width="500" height="550"/>
+
 
 ## Description
 Cycle a color value through incremental changes.
